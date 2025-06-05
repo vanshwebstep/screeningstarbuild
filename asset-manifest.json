@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e98565d.css",
-    "main.js": "/static/js/main.1b973878.js",
+    "main.css": "/static/css/main.467691fe.css",
+    "main.js": "/static/js/main.723ad991.js",
     "static/js/361.c948eee3.chunk.js": "/static/js/361.c948eee3.chunk.js",
     "static/js/359.2875568d.chunk.js": "/static/js/359.2875568d.chunk.js",
-    "static/js/767.b53b8160.chunk.js": "/static/js/767.b53b8160.chunk.js",
+    "static/js/767.450e957f.chunk.js": "/static/js/767.450e957f.chunk.js",
     "static/js/511.f17e0dab.chunk.js": "/static/js/511.f17e0dab.chunk.js",
     "static/media/Varta-Regular_1.svg": "/static/media/Varta-Regular_1.fd695d4f1754d828606f.svg",
     "static/media/Helvetica-Oblique.svg": "/static/media/Helvetica-Oblique.202ee2a3e9bf2c777ee5.svg",
@@ -79,15 +79,15 @@
     "static/media/HelveticaRounded-Bold.woff2": "/static/media/HelveticaRounded-Bold.abbe45039718c9611e49.woff2",
     "static/media/Helvetica-Compressed.woff2": "/static/media/Helvetica-Compressed.045b7232440734ee1fa3.woff2",
     "index.html": "/index.html",
-    "main.5e98565d.css.map": "/static/css/main.5e98565d.css.map",
-    "main.1b973878.js.map": "/static/js/main.1b973878.js.map",
+    "main.467691fe.css.map": "/static/css/main.467691fe.css.map",
+    "main.723ad991.js.map": "/static/js/main.723ad991.js.map",
     "361.c948eee3.chunk.js.map": "/static/js/361.c948eee3.chunk.js.map",
     "359.2875568d.chunk.js.map": "/static/js/359.2875568d.chunk.js.map",
-    "767.b53b8160.chunk.js.map": "/static/js/767.b53b8160.chunk.js.map",
+    "767.450e957f.chunk.js.map": "/static/js/767.450e957f.chunk.js.map",
     "511.f17e0dab.chunk.js.map": "/static/js/511.f17e0dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e98565d.css",
-    "static/js/main.1b973878.js"
+    "static/css/main.467691fe.css",
+    "static/js/main.723ad991.js"
   ]
 }
