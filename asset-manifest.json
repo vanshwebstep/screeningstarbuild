@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae997417.css",
-    "main.js": "/static/js/main.3f362cab.js",
+    "main.js": "/static/js/main.efce794d.js",
     "static/js/359.e2f89e90.chunk.js": "/static/js/359.e2f89e90.chunk.js",
     "static/js/767.82ba2e4d.chunk.js": "/static/js/767.82ba2e4d.chunk.js",
     "static/js/511.f93eeda1.chunk.js": "/static/js/511.f93eeda1.chunk.js",
@@ -34,16 +34,24 @@
     "static/media/Helvetica-Oblique.woff": "/static/media/Helvetica-Oblique.096947c2fc3b7ea258c8.woff",
     "static/media/Varta-Regular_1.eot": "/static/media/Varta-Regular_1.41e3209245a5a72c1975.eot",
     "static/media/Varta-Regular_1.ttf": "/static/media/Varta-Regular_1.a4e8517b1942e69faaf9.ttf",
+    "static/media/aadhaarIcon.png": "/static/media/aadhaarIcon.c162e6dbc2aa4fd7c3f2.png",
+    "static/media/logo8.png": "/static/media/logo8.4949f5cf5edbf215326f.png",
+    "static/media/screeningLogoNew.png": "/static/media/screeningLogoNew.cbf18d44976b4ae5c7a8.png",
+    "static/media/logo-4.png": "/static/media/logo-4.607f4ffc3666015a3677.png",
     "static/media/Helvetica-Bold.woff": "/static/media/Helvetica-Bold.a3ddb9015474495e4886.woff",
+    "static/media/logo-3.png": "/static/media/logo-3.09870ab151a4c477509f.png",
     "static/media/Helvetica.woff": "/static/media/Helvetica.296c7b2dd0bc5d9d49bd.woff",
     "static/media/Helvetica-Oblique.woff2": "/static/media/Helvetica-Oblique.4f0b07817aa87cf77338.woff2",
     "static/media/Helvetica-BoldOblique.woff": "/static/media/Helvetica-BoldOblique.ec231662dc5c0ce3bdbc.woff",
+    "static/media/logo-8.png": "/static/media/logo-8.d2d57b37243e5d7ceb2c.png",
     "static/media/Varta-Regular.woff": "/static/media/Varta-Regular.58a293a23983eeb850dd.woff",
     "static/media/Varta-Regular_2.woff": "/static/media/Varta-Regular_2.5a33d4ad2fd3a5106cd0.woff",
     "static/media/Varta-Regular_3.woff": "/static/media/Varta-Regular_3.5a33d4ad2fd3a5106cd0.woff",
+    "static/media/emblemIcon.png": "/static/media/emblemIcon.6bcda5373f41562dbbb6.png",
     "static/media/Helvetica-Bold.woff2": "/static/media/Helvetica-Bold.fefc8c3abc2176266a50.woff2",
     "static/media/HelveticaRounded-Bold.svg": "/static/media/HelveticaRounded-Bold.a1f8077e39478cab8226.svg",
     "static/media/Helvetica.woff2": "/static/media/Helvetica.d448ae5f5f4a73ccbb8f.woff2",
+    "static/media/logo-5.png": "/static/media/logo-5.986ed8d678709325bf2f.png",
     "static/media/Helvetica-BoldOblique.woff2": "/static/media/Helvetica-BoldOblique.8c48365c1aa316f6e885.woff2",
     "static/media/iso2.png": "/static/media/iso2.00f73a41cd1b74b9cd50.png",
     "static/media/iso.png": "/static/media/iso.43b86f034bc27ef62d58.png",
@@ -55,6 +63,7 @@
     "static/media/Helvetica-Light.svg": "/static/media/Helvetica-Light.2c498eac5ac3e121ecbb.svg",
     "static/media/Helvetica-Compressed.svg": "/static/media/Helvetica-Compressed.006c5bd669c15abda3d8.svg",
     "static/media/PDFuserGirl.png": "/static/media/PDFuserGirl.b87206d19bccfafcd08e.png",
+    "static/media/logo-6.png": "/static/media/logo-6.c9ba736cd15f93359ccb.png",
     "static/media/Varta-Regular_1.woff2": "/static/media/Varta-Regular_1.e5374028aa3ebec40b96.woff2",
     "static/media/PDFuser.png": "/static/media/PDFuser.2f8b17beb8d480a2ad5f.png",
     "static/media/track-master2.png": "/static/media/track-master2.bfe27760a549a525b9ab.png",
@@ -80,13 +89,13 @@
     "static/media/Helvetica-Compressed.woff2": "/static/media/Helvetica-Compressed.045b7232440734ee1fa3.woff2",
     "index.html": "/index.html",
     "main.ae997417.css.map": "/static/css/main.ae997417.css.map",
-    "main.3f362cab.js.map": "/static/js/main.3f362cab.js.map",
+    "main.efce794d.js.map": "/static/js/main.efce794d.js.map",
     "359.e2f89e90.chunk.js.map": "/static/js/359.e2f89e90.chunk.js.map",
     "767.82ba2e4d.chunk.js.map": "/static/js/767.82ba2e4d.chunk.js.map",
     "511.f93eeda1.chunk.js.map": "/static/js/511.f93eeda1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae997417.css",
-    "static/js/main.3f362cab.js"
+    "static/js/main.efce794d.js"
   ]
 }
